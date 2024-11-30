@@ -1,3 +1,1 @@
-esto es en *cursiva*
-esto es en **negrita**
-esto es en ```codigo fuente```
+"Hoald esde dentro de hola" 
